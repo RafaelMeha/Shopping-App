@@ -77,7 +77,7 @@ nav {
     padding: 1rem;
 }
 
-#itemForm label {
+/* #itemForm label {
     display: block;
     margin-bottom: 1rem;
 }
@@ -86,7 +86,7 @@ nav {
     height: 2rem;
     text-align: center;
     border: 1px solid #bfbfbf;
-}
+} */
 
 #quantityInput, #priceInput{
     width: 3rem;
